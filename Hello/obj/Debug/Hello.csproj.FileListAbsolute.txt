@@ -1,0 +1,6 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\LIQUORI\Hello\Hello\obj\Debug\Hello.pdb
